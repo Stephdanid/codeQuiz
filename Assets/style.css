@@ -1,3 +1,8 @@
 .questionsdiv {
     display: none;
 }
+
+button {
+    background-color: darkblue;
+    color: white
+}
